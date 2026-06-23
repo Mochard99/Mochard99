@@ -42,8 +42,9 @@ Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in softw
 
 ## 📡 ESTABLISH UPLINK // CONNECT
 
-| Service | Protocol Address | Access Link |
+| 🛠️ SYSTEM | 🌐 PROTOCOL ADDRESS | ⚡ ACCESS LINK |
 | :--- | :--- | :--- |
-| 💬 **Discord** | `@YOUR_DISCORD_USERNAME` | [🔗 Open Connection](https://discord.com/users/YOUR_DISCORD_USER_ID) |
-| 📺 **YouTube** | `@YOUR_YOUTUBE_HANDLE` | [▶️ Launch Channel](https://youtube.com/@YOUR_YOUTUBE_HANDLE) |
-| 📧 **Gmail** | `carlogianmunar` | [📩 Send Transmission](mailto:carlogianmunar@gmail.com) |
+| 🔮 **Discord** | `🤖 @YOUR_DISCORD_USERNAME` | [⚡ CONNECT](https://discord.com/users/YOUR_DISCORD_USER_ID) |
+| 🎬 **YouTube** | `🍿 @YOUR_YOUTUBE_HANDLE` | [🚀 LAUNCH](https://youtube.com/@YOUR_YOUTUBE_HANDLE) |
+| 📬 **Gmail** | `💾 carlogianmunar` | [📨 TRANSMIT](mailto:carlogianmunar@gmail.com) |
+
