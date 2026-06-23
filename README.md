@@ -10,7 +10,7 @@
 
 > [SYS://MODERNIZING_LEGACY_FRAMEWORKS] • [SYS://OPTIMIZED_BACKENDS] • [SYS://VS_CODE_WORKFLOWS]
 
-Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in software logic, modern game server architectures, and application development. As a **Lead Developer**, I thrive on taking legacy systems and converting them into highly optimized, high-performance environments. Whether I am writing core backend logic, engineering responsive HUDs from scratch, or tuning workflows in VS Code, my goal is always ultra-clean, efficient code.
+Hello! I am **Mochard/Gian**, an 18-year-old developer specializing in software logic, modern game server architectures, and application development. As a **Lead Developer**, I thrive on taking legacy systems and converting them into highly optimized, high-performance environments. Whether I am writing core backend logic, engineering responsive HUDs from scratch, or tuning workflows in VS Code, my goal is always ultra-clean, efficient code.
 
 ---
 
