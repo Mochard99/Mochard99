@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/OPERATIVE_ROLE-LEAD%20DEVELOPER-7f00ff?style=for-the-badge&logo=gitkraken&logoColor=7f00ff" alt="Role" />
 </p>
 
-## 📡 BIO PATHWAY // OVERVIEW
+## 📡 My Information / Introduction
 
 > [SYS://MODERNIZING_LEGACY_FRAMEWORKS] • [SYS://OPTIMIZED_BACKENDS] • [SYS://VS_CODE_WORKFLOWS]
 
@@ -14,7 +14,7 @@ Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in softw
 
 ---
 
-## 🛠️ TECH STACK MATRIX
+## 🛠️ Tool that im used for my daily routine
 
 | LAYERS | TECH SYSTEM ARCHITECTURE |
 | :--- | :--- |
