@@ -38,3 +38,12 @@ Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in softw
  │
  └── 📂 [src/apps] ─── 📱 Cross-Platform Deployment
                        └── Native mobile user interfaces via Flutter
+```
+
+## 📡 ESTABLISH UPLINK // CONNECT
+
+| Service | Protocol Address | Access Link |
+| :--- | :--- | :--- |
+| 💬 **Discord** | `@YOUR_DISCORD_USERNAME` | [🔗 Open Connection](https://discord.com/users/YOUR_DISCORD_USER_ID) |
+| 📺 **YouTube** | `@YOUR_YOUTUBE_HANDLE` | [▶️ Launch Channel](https://youtube.com/@YOUR_YOUTUBE_HANDLE) |
+| 📧 **Gmail** | `carlogianmunar` | [📩 Send Transmission](mailto:carlogianmunar@gmail.com) |
