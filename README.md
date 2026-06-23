@@ -24,27 +24,31 @@ Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in softw
 
 ---
 
-## 📐 BLUEPRINT & ROADMAP
+## 📐 My Goals In My journey Being Developer
 
 ```📂 WORKSPACE ARCHITECTURE
  │
- ├── 📂 [src/core] ─── 🎮 Multiplayer Engine Modernization
- │                     ├── Legacy script conversion to open.mp
- │                     └── MySQL database pipeline optimization
+ ├── 📂 [src/game-dev] ─── 🎮 Immersive Worlds & Multiplayer Systems
+ │                         ├── 🪐 Engineering custom environments & mechanics in Roblox (Rojo)
+ │                         └── ⚡ Scripting core multi-threaded systems for SA-MP / open.mp
  │
- ├── 📂 [src/ui] ───── 🕹️ Gameplay Mechanics & Interface
- │                     ├── Custom state-driven HUD rendering
- │                     └── Dynamic modular economy scripting
+ ├── 📂 [src/database] ─── 🗄️ Backend Infrastructure & Data Models
+ │                         ├── 🛡️ Structuring secure, optimized MySQL relational architectures
+ │                         └── 🚀 Crafting unique dynamic system pipelines and data storage
  │
- └── 📂 [src/apps] ─── 📱 Cross-Platform Deployment
-                       └── Native mobile user interfaces via Flutter
+ ├── 📂 [src/web-dev] ──── 🌐 Full-Stack Systems & Interfaces
+ │                         ├── 🎨 Designing clean, high-performance web frontends (HTML/CSS/JS)
+ │                         └── ⚙️ Building robust application logic and modular web systems
+ │
+ └── 📂 [src/app-dev] ──── 📱 Cross-Platform Ecosystems
+                           └── 🎨 Compiling sleek, native-performing UI layouts via Flutter SDK
 ```
 
-## 📡 ESTABLISH UPLINK // CONNECT
+## 📡 Hello you can contact or see me in this my socmed thank you for check my profile!
 
 | 🛠️ SYSTEM | 🌐 PROTOCOL ADDRESS | ⚡ ACCESS LINK |
 | :--- | :--- | :--- |
-| 🔮 **Discord** | `🤖 @YOUR_DISCORD_USERNAME` | [⚡ CONNECT](https://discord.com/users/YOUR_DISCORD_USER_ID) |
-| 🎬 **YouTube** | `🍿 @YOUR_YOUTUBE_HANDLE` | [🚀 LAUNCH](https://youtube.com/@YOUR_YOUTUBE_HANDLE) |
-| 📬 **Gmail** | `💾 carlogianmunar` | [📨 TRANSMIT](mailto:carlogianmunar@gmail.com) |
+| 🔮 **Discord** | `🤖 @Mochard_Cristobal` | [⚡ MY DISCORD](https://discord.com/users/YOUR_DISCORD_USER_ID) |
+| 🎬 **YouTube** | `🍿 @SOON!!` | [🚀 MY YOUTUBE](https://youtube.com/@YOUR_YOUTUBE_HANDLE) |
+| 📬 **Gmail** | `💾 mochtrevino@gmail.com` | [📨 MY EMAIL](mailto:mochtrevino@gmail.com) |
 
