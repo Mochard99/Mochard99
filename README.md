@@ -1,38 +1,40 @@
-# Gian Carlo Munar
+# ─── ❖ 🌐 SYSTEM STATUS: ACTIVE 🌐 ❖ ───
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Age-18-333333?style=flat&logo=ghost&logoColor=white" alt="Age" />
-  <img src="https://img.shields.io/badge/Role-Lead%20Developer-0066cc?style=flat&logo=gitkraken&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Workspace-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=white" alt="Editor" />
+<p align="center">
+  <img src="https://img.shields.io/badge/IDENTITY-GIAN%20CARLO%20MUNAR-00f0ff?style=for-the-badge&logo=ghost&logoColor=00f0ff" alt="Name" />
+  <img src="https://img.shields.io/badge/CORE_AGE-18-ff007f?style=for-the-badge&logo=codeforces&logoColor=ff007f" alt="Age" />
+  <img src="https://img.shields.io/badge/OPERATIVE_ROLE-LEAD%20DEVELOPER-7f00ff?style=for-the-badge&logo=gitkraken&logoColor=7f00ff" alt="Role" />
 </p>
 
-## 👤 About Me
+## 📡 BIO PATHWAY // OVERVIEW
 
-Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in software logic, modern game server architectures, and application development.
+> [SYS://MODERNIZING_LEGACY_FRAMEWORKS] • [SYS://OPTIMIZED_BACKENDS] • [SYS://VS_CODE_WORKFLOWS]
 
-As a **Lead Developer**, I thrive on taking legacy frameworks and modernizing them into optimized, high-performance systems. Whether I am architecting robust backend logic, engineering dynamic UI/UX mechanics from scratch, or configuring streamlined workflows in VS Code, my goal is always to write clean, maintainable, and efficient code.
-
----
-
-## 🛠️ Skills & Technologies
-
-*   **Programming Languages** &nbsp;&middot;&nbsp; `PAWN` &bull; `Lua` &bull; `Python` &bull; `JavaScript` &bull; `C++` &bull; `HTML / CSS`
-*   **Frameworks & Frameworks** &nbsp;&middot;&nbsp; `open.mp` &bull; `Roblox + Rojo` &bull; `Flutter SDK`
-*   **Tools & Databases** &nbsp;&middot;&nbsp; `Git & GitHub` &bull; `MySQL Database` &bull; `Workflow Automation`
+Hello! I am **Gian Carlo Munar**, an 18-year-old developer specializing in software logic, modern game server architectures, and application development. As a **Lead Developer**, I thrive on taking legacy systems and converting them into highly optimized, high-performance environments. Whether I am writing core backend logic, engineering responsive HUDs from scratch, or tuning workflows in VS Code, my goal is always ultra-clean, efficient code.
 
 ---
 
-## 📐 System Blueprint // Project Roadmap
+## 🛠️ TECH STACK MATRIX
 
-```📂 Workspace Architecture
-   │
-   ├── 📂 [src/core] ─── 🎮 Multiplayer Engine Modernization
-   │                     └── Transitioning legacy scripts to open.mp
-   │                     └── Implementing optimized MySQL data pipelines
-   │
-   ├── 📂 [src/ui] ───── 🕹️ Gameplay Mechanics & Interface
-   │                     └── Engineering responsive custom HUD layouts
-   │                     └── Scripting dynamic states & economy modules
-   │
-   └── 📂 [src/apps] ─── 📱 Cross-Platform Deployment
-                         └── Building fluid native interfaces via Flutte
+| LAYERS | TECH SYSTEM ARCHITECTURE |
+| :--- | :--- |
+| 🌐 **LANGUAGES** | `PAWN` &nbsp;•&nbsp; `Lua` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `C++` &nbsp;•&nbsp; `HTML/CSS` |
+| ⚙️ **FRAMEWORKS** | `open.mp (SA-MP)` &nbsp;•&nbsp; `Roblox + Rojo` &nbsp;•&nbsp; `Flutter SDK` |
+| 🔧 **ECOSYSTEM** | `Git / GitHub` &nbsp;•&nbsp; `MySQL Database` &nbsp;•&nbsp; `Workflow Automation` |
+
+---
+
+## 📐 BLUEPRINT & ROADMAP
+
+```📂 WORKSPACE ARCHITECTURE
+ │
+ ├── 📂 [src/core] ─── 🎮 Multiplayer Engine Modernization
+ │                     ├── Legacy script conversion to open.mp
+ │                     └── MySQL database pipeline optimization
+ │
+ ├── 📂 [src/ui] ───── 🕹️ Gameplay Mechanics & Interface
+ │                     ├── Custom state-driven HUD rendering
+ │                     └── Dynamic modular economy scripting
+ │
+ └── 📂 [src/apps] ─── 📱 Cross-Platform Deployment
+                       └── Native mobile user interfaces via Flutter
